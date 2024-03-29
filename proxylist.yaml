@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,imagestwist.com
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-KEYWORD,fuliba
+  - DOMAIN-KEYWORD,wnflb
+#  - IP-CIDR,13.32.0.0/15
